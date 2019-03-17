@@ -1,3 +1,5 @@
+# プラグインリスト(自作以外)
+
 ## Add Code to Head
 Adds custom html code (javascript, css, etc.) to each public page's head (微調整に使用)バージョン 1.13
 
